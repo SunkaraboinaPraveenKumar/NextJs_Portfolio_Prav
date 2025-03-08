@@ -9,7 +9,7 @@ const Education = () => {
       {experience.map((data) => (
         <Card
           key={data.id}
-          className="my-5 w-full max-w-[800px] mx-auto border border-yellow-500 shadow-[5px_5px_10px_10px_rgba(101,175,10,0.5)]"
+          className="my-5 w-full max-w-[800px] mx-auto border border-yellow-500 shadow-[5px_5px_5px_5px_rgba(101,175,10,0.5)]"
         >
           <div className="flex flex-col md:flex-row items-center p-8 rounded-lg">
             <div className="mr-4 mb-4 md:mb-0">

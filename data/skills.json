@@ -81,7 +81,7 @@
   },
   {
     "id":"17",
-    "title": "Natural Language Processing(NLP)",
+    "title": "NLP",
     "imageSrc": "skills/nlp.jpeg"
   },
   {
@@ -93,5 +93,10 @@
     "id":"19",
     "title": "Vector Databases",
     "imageSrc": "skills/vector.png"
+  },
+  {
+    "id":"20",
+    "title": "PostGreSQL",
+    "imageSrc": "skills/postgresql.png"
   }
 ]

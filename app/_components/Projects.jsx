@@ -73,7 +73,7 @@ const Projects = () => {
             className={`px-4 py-2 rounded-full border transition cursor-pointer 
               ${selectedFilter === filter
                 ? "bg-yellow-500 text-black"
-                : "bg-transparent  border-black dark:border-white"
+                : "bg-transparent border-black dark:border-white"
               }`}
           >
             {filter}
@@ -82,22 +82,22 @@ const Projects = () => {
       </div>
 
       {/* Projects Grid */}
-      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8 justify-center items-center">
+      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-10 justify-items-center">
         {visibleProjects.map((data, index) => (
           <Card
             key={index}
-            className="w-72 border border-yellow-500 shadow-[5px_5px_10px_10px_rgba(101,175,10,0.5)] rounded-lg"
+            className="w-72 min-h-[400px] border border-yellow-500 shadow-[5px_5px_8px_8px_rgba(101,175,10,0.5)] rounded-lg flex flex-col"
           >
             <div className="p-3 flex justify-center items-center">
               <img
                 src={data.imageSrc}
                 alt={data.title}
-                className="w-[250px] h-[200px] border-2 border-yellow-500 rounded-[10px] object-cover"
+                className="w-[250px] h-[200px] border-2 border-yellow-500 rounded-[10px] object-fit"
               />
             </div>
-            <div className="p-4 text-center">
+            <div className="p-4 text-center flex flex-col flex-grow">
               <h5 className="text-xl font-bold mb-2">{data.title}</h5>
-              <p className="text-sm mb-4">{data.description}</p>
+              <p className="text-sm mb-4 flex-grow">{data.description}</p>
               <div className="flex items-center justify-between">
                 <Button asChild>
                   <a
