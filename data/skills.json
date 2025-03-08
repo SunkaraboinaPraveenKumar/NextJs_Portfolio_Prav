@@ -1,0 +1,97 @@
+[
+  {
+    "id":"1",
+    "title":"C Lang",
+    "imageSrc":"skills/c.png"
+  },
+  {
+    "id":"2",
+    "title":"Java",
+    "imageSrc":"skills/java.png"
+  },
+  {
+    "id":"3",
+    "title":"Python",
+    "imageSrc":"skills/python.png"
+  },
+  {
+    "id":"4",
+    "title":"DSA",
+    "imageSrc":"skills/dsa.png"
+  },
+  {
+    "id":"5",
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "id":"6",
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "id":"7",
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "id":"8",
+    "title": "React JS(Front End)",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "id":"9",
+    "title": "Node JS(Back End)",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "id":"10",
+    "title": "Next Js",
+    "imageSrc": "skills/nextjs.jpeg"
+  },
+  {
+    "id":"11",
+    "title":"Firebase",
+    "imageSrc":"skills/firebase.png"
+  },
+  {
+    "id":"12",
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "id":"13",
+    "title": "My SQL",
+    "imageSrc": "skills/mysql.jpeg"
+  },
+  {
+    "id":"14",
+    "title": "LeetCode 1000+",
+    "imageSrc": "skills/leet.png"
+  },
+  {
+    "id":"15",
+    "title": "Geeks For Geeks 500+",
+    "imageSrc": "skills/geeks.png"
+  },
+  {
+    "id":"16",
+    "title": "AIML",
+    "imageSrc": "skills/machine.jpeg"
+  },
+  {
+    "id":"17",
+    "title": "Natural Language Processing(NLP)",
+    "imageSrc": "skills/nlp.jpeg"
+  },
+  {
+    "id":"18",
+    "title": "Agentic AI(Langchain)",
+    "imageSrc": "skills/agentic.png"
+  },
+  {
+    "id":"19",
+    "title": "Vector Databases",
+    "imageSrc": "skills/vector.png"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "role": "Bachelor Of Technology(B.TECH)",
+    "organisation": "Google",
+    "startDate": "2020 to 2026",
+    "endDate": "",
+    "location": "Jawaharlal Nehru Techological University Hyderabad",
+    "experiences": [
+      "Computer Science and Engineering(CSE)",
+      "CGPA: 9.5"
+    ],
+    "imageSrc": "https://cdn-icons-png.flaticon.com/128/2231/2231696.png"
+  },
+  {
+    "id": 2,
+    "role": "Board of Intermediate Education",
+    "organisation": "Pragathi Junior College",
+    "startDate": "2020-2022",
+    "endDate": "2022",
+    "location": "Nalgonda, Telangana",
+    "experiences": [
+      "Maths Physics Chemistry(MPC)",
+      "Marks/Percentage: 988"
+    ],
+    "imageSrc": "https://cdn-icons-png.flaticon.com/128/8074/8074794.png"
+  },
+  {
+    "id": 3,
+    "role": "Board of Secondary Education",
+    "organisation": "New Vision High School",
+    "startDate": "2020",
+    "endDate": "Jun, 2022",
+    "location": "Nalgonda, Telangana",
+    "experiences": [
+      "GPA: 10/10"
+    ],
+    "imageSrc": "https://cdn-icons-png.flaticon.com/128/8074/8074788.png"
+  }
+]

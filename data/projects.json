@@ -1,0 +1,471 @@
+[
+  {
+    "key": "1",
+    "title": "React E-Commerce",
+    "imageSrc": "https://th.bing.com/th/id/OIP.8OcdOwRWX21G0Yl8wVna9QHaE9?w=286&h=191&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+    "description": "This is a project made with complete React js.",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/AdvancedEcommerce",
+    "deploy": "https://advanced-ecommerce-five.vercel.app/"
+  },
+  {
+    "key": "2",
+    "title": "Social Media React Website",
+    "imageSrc": "https://th.bing.com/th/id/OIP.cLKj7HEBCCD4mD6pc3HajgHaHa?pid=ImgDet&w=474&h=474&rs=1",
+    "description": "This is a project made with complete React js and FireBase and Node JS",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/SocialMedia_React_App",
+    "deploy": "https://social-media-react-app-mu.vercel.app/"
+  },
+  {
+    "key": "3",
+    "title": "Python Chat Bot",
+    "imageSrc": "https://th.bing.com/th/id/OIP.BCrjVezCUprUYBsXZkYSvQHaEK?rs=1&pid=ImgDetMain",
+    "description": "This is a project made with Python and Deployed with Streamlit",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/First_ChatBot",
+    "deploy": "https://firstchatbot-4utnvnkfr3hotxrxc2erhg.streamlit.app/"
+  },
+  {
+    "key": "4",
+    "title": "MERN CHAT BOT - Front End",
+    "imageSrc": "https://i.ytimg.com/vi/jeDnHARmW34/maxresdefault.jpg",
+    "description": "This is a project made with complete React js and Material UI",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/MENR_CHAT_FROnt",
+    "deploy": "https://menr-chat-fr-ont.vercel.app/"
+  },
+  {
+    "key": "5",
+    "title": "MERN CHAT BOT - Back End",
+    "imageSrc": "https://forum.devtalk.com/uploads/default/original/1X/e4b8dbc83dbc1ab2eaaf0a44f78553bdd3586877.jpeg",
+    "description": "This is a project made with complete Node Js and Gemini API Responses",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/MERN_CHAT_BACKEND",
+    "deploy": "https://mern-chat-backend-5.onrender.com/api/v1/user"
+  },
+  {
+    "key": "6",
+    "title": "Machine Learning projects",
+    "imageSrc": "https://th.bing.com/th/id/OIP.vo3M_xHubdm9j47KWO3D1AHaEK?rs=1&pid=ImgDetMain",
+    "description": "This is a project made with complete Python,Google Colab",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Machine_Learning_Projects",
+    "deploy": "https://ml-projects-six.vercel.app/"
+  },
+  {
+    "key": "7",
+    "title": "Self Driving Car",
+    "imageSrc": "https://th.bing.com/th/id/OIP.jg0qtzqwSZUP9ndFZAz4-QHaE8?rs=1&pid=ImgDetMain",
+    "description": "This is a project made with complete JavaScript Neural Networks",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Self-Driving-Car",
+    "deploy": "https://self-driving-car-rouge.vercel.app/"
+  },
+  {
+    "key": "8",
+    "title": "Kotlin-Finanace_Expense_Tracker",
+    "imageSrc": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210707194050/A-Complete-Guide-to-Learn-Kotlin-for-Android-App-Development.png",
+    "description": "This is a project made with complete Kotlin,Fire Base",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Expense_Tracker_Paas",
+    "deploy": ""
+  },
+  {
+    "key": "9",
+    "title": "MERN Book Store FrontEnd",
+    "imageSrc": "https://th.bing.com/th/id/OIP.RrtZUMlVUmaxEqoEqEEu8QHaET?rs=1&pid=ImgDetMain",
+    "description": "This is a project made with complete React JS",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Mern-bookStore-fronend",
+    "deploy": "https://mern-book-store-fronend.vercel.app/"
+  },
+  {
+    "key": "10",
+    "title": "MERN Book Store BackEnd",
+    "imageSrc": "https://static.vecteezy.com/system/resources/previews/012/044/771/large_2x/illustration-of-book-shop-showcase-with-lots-of-books-with-bench-and-little-bookcase-outside-book-shop-exterior-in-flat-style-vector.jpg",
+    "description": "This is a project made with complete Node JS,Express,MongoDB",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Mern-Book-Store-BackEnd",
+    "deploy": "https://mern-book-store-backend-1.onrender.com"
+  },
+  {
+    "key": "11",
+    "title": "React 3-D Website",
+    "imageSrc": "https://th.bing.com/th/id/OIP.WqDreNz92-NWSDyoU6y1dwHaEj?w=277&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+    "description": "This is a project made with complete React js.",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/GPT3Website-React",
+    "deploy": "https://coffee-store-website-tjhn.vercel.app/"
+  },
+  {
+    "key": "12",
+    "title": "Link Preview Generator",
+    "imageSrc": "https://website-cdn.studysmarter.de/2023/04/StudySmarter-AI_Press-Release_Graphic-V1.png",
+    "description": "This is a project made with complete React Vite, Node Js, Web Scraping",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Simple_Link_Preview_Gen",
+    "deploy": "https://simple-link-preview-gen.vercel.app/"
+  },
+  {
+    "key": "13",
+    "title": "Coffee Store Website",
+    "imageSrc": "https://th.bing.com/th/id/OIP.NutZKB1AAQ3bIshKzEjAuAHaEl?w=271&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+    "description": "This is a project made with complete HTML and JavaScript",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Coffee--Store-Website",
+    "deploy": "https://sunkaraboinapraveenkumar.github.io/Coffee--Store-Website/"
+  },
+  {
+    "key": "14",
+    "title": "Job Portal Website",
+    "imageSrc": "https://cdn5.vectorstock.com/i/1000x1000/74/44/job-portal-lettering-logo-design-template-concept-vector-37017444.jpg",
+    "description": "This is a project made with complete React Js, Node JS, MongoDB.",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Job_Portal_frontend",
+    "deploy": "https://job-portal-frontend-ecru.vercel.app/"
+  },
+  {
+    "key": "15",
+    "title": "Shortest Path Dijkstras",
+    "imageSrc": "https://i.ytimg.com/vi/jaPSY96Zf0c/maxresdefault.jpg",
+    "description": "This is a project made with complete JavaScript, HTML, CSS",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Dijktras_Shortest_Path_Vis_JS",
+    "deploy": "https://dijktras-shortest-path-vis-js.vercel.app/"
+  },
+  {
+    "key": "16",
+    "title": "Huffmann Decoding & Encoding",
+    "imageSrc": "https://static.wixstatic.com/media/db1234_78f1a746e7ce45ca9e08fe4b29e4facc~mv2.jpg/v1/fill/w_980,h_822,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/db1234_78f1a746e7ce45ca9e08fe4b29e4facc~mv2.jpg",
+    "description": "This is a project made with complete JavaScript, HTML, CSS",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Huffman_Decoding_Encoding",
+    "deploy": "https://huffman-decoding-encoding.vercel.app/"
+  },
+  {
+    "key": "17",
+    "title": "Text Summarizer",
+    "imageSrc": "https://www.scrapehero.com/wp/wp-content/uploads/2021/05/Text-Summarization-NLP-744x431.jpg",
+    "description": "This is a project made with complete Python, Flask and NLP",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Summarization_NLP",
+    "deploy": "https://summarization-nlp-1.onrender.com/"
+  },
+  {
+    "key": "18",
+    "title": "AI Image Generator",
+    "imageSrc": "https://th.bing.com/th/id/OIP.fcDMFzHVI8hoYTCcsqgZhQAAAA?rs=1&pid=ImgDetMain",
+    "description": "This is a project made with complete React, Firebase, MongoDB and Hugging Face Model",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Image_Ai_FrontEnd",
+    "deploy": "https://image-ai-front-end.vercel.app/"
+  },
+  {
+    "key": "19",
+    "title": "",
+    "imageSrc": "https://i.ytimg.com/vi/ZwFA3YMfkoc/maxresdefault.jpg",
+    "description": "This is a project made with complete NodeJS,React,Socket IO",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Chat-Application-using-Socket-io.",
+    "deploy": "https://chat-application-using-socket-io-six.vercel.app/"
+  },
+  {
+    "key": "20",
+    "title": "Travel Advisor App",
+    "imageSrc": "https://hcti.io/v1/image/f5fd4204-2c41-4c88-80a3-d9ec6d03d0ba.webp",
+    "description": "This is a project made with complete React, Google Maps API",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Travel_Advisor_maps",
+    "deploy": "https://travel-advisor-maps-3nhc.vercel.app/"
+  },
+  {
+    "key": "21",
+    "title": "AI Travel Planner App",
+    "imageSrc": "https://hcti.io/v1/image/f5fd4204-2c41-4c88-80a3-d9ec6d03d0ba.webp",
+    "description": "This is a project made with complete React, Google Maps API, Gemini AI",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/AI_Trip_Planner",
+    "deploy": "https://ai-trip-planner-phi.vercel.app/"
+  },
+  {
+    "key": "22",
+    "title": "Weather APP Flask",
+    "imageSrc": "https://i.ytimg.com/vi/lWA0GgUN8kg/maxresdefault.jpg",
+    "description": "This is a project made with complete Python, Flask",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Weather_Flask",
+    "deploy": "https://weather-flask-kbv1.onrender.com/"
+  },
+  {
+    "key": "23",
+    "title": "Human Emotion Prediction",
+    "imageSrc": "https://thumbs.dreamstime.com/z/human-emotion-mind-map-positive-negative-emotions-flowchart-concept-marker-198039414.jpg",
+    "description": "This is a project made with complete Python, Streamlit,Colab",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Human_Emotion_Pred",
+    "deploy": "https://sunkaraboinapraveenkumar-human-emotion-pred-main-oui01s.streamlit.app/"
+  },
+  {
+    "key": "24",
+    "title": "MCQs Generator",
+    "imageSrc": "https://th.bing.com/th/id/OIP.JyTwTmoVQxs5ONkwkqIJqAHaD_?rs=1&pid=ImgDetMain",
+    "description": "This is a project made with complete Python, Streamlit,Colab",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/MCQs-Generator-App",
+    "deploy": "https://mcqs-generator-app-1.onrender.com/"
+  },
+  {
+    "key": "25",
+    "title": "AI Content Generation",
+    "imageSrc": "https://th.bing.com/th/id/OIP.4YFb-f1kFbGTzCQfF4We3QHaEK?rs=1&pid=ImgDetMain",
+    "description": "This is a project made with complete Next Js, PostgreSQL",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/AI_Content_Gen",
+    "deploy": "https://ai-content-gen-cv6a.vercel.app/"
+  },
+  {
+    "key": "26",
+    "title": "AI Course Generation",
+    "imageSrc": "https://th.bing.com/th/id/OIP.P9MybXTwWiPrnuQ4mlEHrwHaEK?rs=1&pid=ImgDetMain",
+    "description": "This is a project made with complete Next Js, PostgreSQL",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/AI_Course_Gen",
+    "deploy": "https://ai-course-gen-prav.vercel.app/"
+  },
+  {
+    "key": "27",
+    "title": "Find_Player_App",
+    "imageSrc": "https://cdn.create.vista.com/downloads/a20b350a-5051-42a5-aa49-bf44e69a34c4_1024.jpeg",
+    "description": "This is a project made with complete React Js, MongoDB, Firebase",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Find_Player_App",
+    "deploy": "https://find-player-app.vercel.app/"
+  },
+  {
+    "key": "28",
+    "title": "Kids_Story_GenAI",
+    "imageSrc": "https://th.bing.com/th/id/OIP.fX_bgW9zJPeEsAZxgApQKQHaEd?rs=1&pid=ImgDetMain",
+    "description": "This is a project made with complete Next Js, PostgreSQL",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Kids_Story_Gen_AI",
+    "deploy": "https://kids-story-gen-ai.vercel.app/"
+  },
+  {
+    "key": "29",
+    "title": "Voice_Bot",
+    "imageSrc": "https://innovationyourself.com/wp-content/uploads/2020/07/bot.png",
+    "description": "This is a project made with complete Python, Flask,Colab",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Speech-recognition_ai",
+    "deploy": "https://speech-recognition-ai.onrender.com/"
+  },
+  {
+    "key": "30",
+    "title": "Ai_Mock_Interview_Gen",
+    "imageSrc": "https://as1.ftcdn.net/v2/jpg/05/88/10/28/1000_F_588102895_AxkhLTjt3pQasSnaH3oxKyhpJIC7d0ib.jpg",
+    "description": "This is a project made with complete Next Js, PostgreSQL,Clerk",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Ai_Interview_App",
+    "deploy": "https://ai-interview-app-brown.vercel.app/"
+  },
+  {
+    "key": "31",
+    "title": "Ai_Video_Gen",
+    "imageSrc": "https://assets-global.website-files.com/59e16042ec229e00016d3a66/6441d5f76d21e1e4dee9ffa2_Gen%20AI%20blog_Blog%20hero.png",
+    "description": "This is a project made with complete Next Js, PostgreSQL, Clerk",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Ai_Video_gen",
+    "deploy": "https://ai-video-gen.vercel.app/"
+  },
+  {
+    "key": "32",
+    "title": "Student Attendance Tracker",
+    "imageSrc": "https://th.bing.com/th/id/OIP.NjpsYHwkmfmVeXKTWfaS7gHaFK?rs=1&pid=ImgDetMain",
+    "description": "This is a project made with complete Next Js, PostgreSQL, Clerk",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Student_Attendance_Tracker",
+    "deploy": "https://student-attendance-tracker-rfvm.vercel.app/"
+  },
+  {
+    "key": "33",
+    "title": "Uber_Travel_Clone",
+    "imageSrc": "https://i.pinimg.com/originals/38/d7/6a/38d76a2a598eb9f034a46603f76cfa2d.jpg",
+    "description": "This is a project made with complete Next Js, PostgreSQL, Clerk, Google Maps API",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Travel_Uber_Clone",
+    "deploy": "https://travel-uber-clone.vercel.app/"
+  },
+  {
+    "key": "34",
+    "title": "Real_Estate_App",
+    "imageSrc": "https://cdn2.vectorstock.com/i/1000x1000/97/66/real-estate-vector-4389766.jpg",
+    "description": "This is a project made with complete Next Js, Supabase, Clerk",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Real_Estate_App",
+    "deploy": "https://real-estate-app-zeta-five.vercel.app/"
+  },
+  {
+    "key": "35",
+    "title": "AI_Room_Designer",
+    "imageSrc": "https://th.bing.com/th/id/OIP.7TRdFseNIVM21zlAT8rRNQHaD4?rs=1&pid=ImgDetMain",
+    "description": "This is a project made with complete Next Js, Firebase, Clerk, Neon(PostgreSQL)",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/AI_Room_Design",
+    "deploy": "https://ai-room-designprav.vercel.app/"
+  },
+  {
+    "key": "36",
+    "title": "Meeting Scheduler",
+    "imageSrc": "https://sixthsenseit.com/webroot/upload/admin/apps/post_img/2020-02-27_post_image_1582792257.png",
+    "description": "This is a project made with complete Next Js, Firebase, Clerk",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Meeting_Scheduler_NextJs",
+    "deploy": "https://meeting-scheduler-next-js.vercel.app/"
+  },
+  {
+    "key": "37",
+    "title": "AI_PDF_Notes_Taker",
+    "imageSrc": "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/34_Ai_Illustrator_Adobe_logo_logos-1024.png",
+    "description": "This is a project made with complete Next Js, Convex Vector Database, Clerk Authentication",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/AI_Pdf_Notes_Taker",
+    "deploy": "https://ai-pdf-notes-taker.vercel.app/"
+  },
+  {
+    "key": "38",
+    "title": "Web Dev Chatbot",
+    "imageSrc": "https://communitykeeper-media.s3.amazonaws.com/media/rag-social1.png",
+    "description": "This is a project made with complete Python Flask,Llama with Groq, AstraDb Vector DB",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/WEB_DEV_RAG_GEMINI",
+    "deploy": "https://web-dev-rag-gemini-8hbgjkzi8-praveen-kumars-projects-663db999.vercel.app/"
+  }
+  ,
+  {
+    "key": "39",
+    "title": "AI Study App",
+    "imageSrc": "https://website-cdn.studysmarter.de/2023/04/StudySmarter-AI_Press-Release_Graphic-V1.png",
+    "description": "This is a project made with complete Next JS,Inngest , PostGreSQL Neon DB, Clerk Authentication",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/AI_LMS_APP",
+    "deploy": "https://ai-study-app-ruddy.vercel.app/"
+  },
+  {
+    "key": "40",
+    "title": "AI Resume Builder",
+    "imageSrc": "https://images.appypie.com/wp-content/uploads/2023/02/24071143/Popular-AI-Resume-Website-Builders.png",
+    "description": "This is a project made with complete React JS,PostGreSQL Neon DB, Clerk Authentication",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/React_AI_Resume_Builder",
+    "deploy": "https://react-ai-resume-builder-praveen.vercel.app/"
+  },
+  {
+    "key": "41",
+    "title": "Digi_Ecommerce_Praveen",
+    "imageSrc": "https://deepdigiecommerce.com/wp-content/uploads/2023/04/Deep-Digi-Ecommerce-Logo.png",
+    "description": "This is a project made with complete React JS,PostGreSQL Neon DB, Clerk Authentication",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Digi_Ecommerce_Store_Prav",
+    "deploy": "https://digi-ecommerce-store-prav.vercel.app/"
+  },
+  {
+    "key": "42",
+    "title": "Ecomm_Web_Scraper",
+    "imageSrc": "https://blog-images.webscraper.io/images/RDUD7eLl4kzTSwESZiycUJmExDT27lMHiyfdcciK.png",
+    "description": "This is a project made with complete Next JS,Mongo DB, Clerk Authentication, Bright Data",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Ecommerce_Web_Scraper",
+    "deploy": "https://ecommerce-web-scraper-praveen.vercel.app/"
+  },
+  {
+    "key": "43",
+    "title": "AI Video Editor",
+    "imageSrc": "https://bendigoaerial.com.au/wp-content/uploads/2023/03/Pictory-Text-Video-Editor-1200x675.jpg",
+    "description": "This is a project made with complete Next JS, Neon PostGreSQL, Clerk Authentication",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/AI_-Scratch_Video_Editor",
+    "deploy": "https://ai-scratch-video-editor.vercel.app/"
+  },
+  {
+    "key": "44",
+    "title": "Youtube Video Transcript",
+    "imageSrc": "https://i.ytimg.com/vi/1lm4Wlpy2wU/maxresdefault.jpg",
+    "description": "This is a project made with complete Streamlit, Gemini API, Langchain, Youtube Trancript API.",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Gemini_YT_Transcript",
+    "deploy": "https://sunkaraboinapraveenkumar-gemini-yt-transcript-app-dbgaoh.streamlit.app/"
+  },
+  {
+    "key": "45",
+    "title": "ChatBot_Scratch_Prav",
+    "imageSrc": "https://i.pinimg.com/736x/3a/5e/e8/3a5ee822b367eb0d36d1257654d11494.jpg",
+    "description": "This is a project made with complete Next JS,Neon DB, Clerk Authentication, Hugging Face models",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Chatbot_Praveen_Scratch",
+    "deploy": "https://chatbot-praveen-scratch.vercel.app/"
+  },
+  {
+    "key": "46",
+    "title": "ChatBot_Youtube_Transcript",
+    "imageSrc": "https://manometcurrent.com/wp-content/uploads/2023/09/YouTube-Video-Transcription-780x470.jpg",
+    "description": "This is a project made with complete Next JS,Neon DB, Clerk Authentication, Youtube Transcript API",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Youtube_Video_Transcript_Bot",
+    "deploy": "https://youtube-video-transcript-bot.vercel.app/"
+  },
+  {
+    "key": "47",
+    "title": "AI Logo Creator",
+    "imageSrc": "https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/15/bf/5b/15bf5ba1-27c9-0c8c-2ae4-a81264746410/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/1200x630wa.png",
+    "description": "This is a project made with complete Next JS, Fire base, Clerk Authentication, Hugging Face API",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/AI_Logo_Generator",
+    "deploy": "https://ai-logo-generator-praveen.vercel.app/"
+  },
+  {
+    "key": "48",
+    "title": "AI Chat Voice Bot",
+    "imageSrc": "https://cdn.technologyadvice.com/wp-content/uploads/2018/02/friendly-chatbot.jpg",
+    "description": "This is a project made with complete Next JS, Neon PostgreSQL, Clerk Authentication, Hugging Face API",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Voice_Bot_Groq_web",
+    "deploy": "https://voice-bot-groq-web.vercel.app/"
+  },
+  {
+    "key": "49",
+    "title": "AI Email Template Gen",
+    "imageSrc": "https://media-hosting.imagekit.io//bf02a98fd3c24bb2/logo.png?Expires=1832405318&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=baOrvCNj-mN6I28CPJNktnnVFPNrZwyUNxiRL5cARFMc5jHGAlKivTZLatX5FuCzhfrC29XzHK5egu4u8R6NUGY7rc4SZpHiWCy4g75ZkOiBphJhDk04BMh2k9-qNO-MFGryHnAFL5d25PcqTOQbMmtSQKrJX4TMqdhGUpciM6uQHSNVV3P0dK199-A-pUkEg3uIE1hLWX75AYxtbmFxt3R74~7wHoyKIuGAE20kWWQKFVwnkaC1OPZfw3jM9psaWKQSR-4BpH12PYm2-GqNegEd7qfZujywzf-MdfZI7eUvCNrbuOhh2zKp6c5JJU5m0fCmyUEre9stoom7bVS7ag__",
+    "description": "This is a project made with complete Next JS, Convex DB, React OAuth Authentication",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/AI_Email_Template_Gen",
+    "deploy": "https://ai-email-template-gen-praveen.vercel.app/"
+  },
+  {
+    "key": "50",
+    "title": "WireFrame to Code",
+    "imageSrc": "https://static.vecteezy.com/system/resources/thumbnails/001/335/297/small_2x/ux-ui-wireframe-concept-free-vector.jpg",
+    "description": "This is a project made with complete Next JS, Firebase Auth and Storage, PostGreSQL DB",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Wireframe_to_code",
+    "deploy": "https://wireframe-to-code-praveen.vercel.app/"
+  },
+  {
+    "key": "51",
+    "title": "Task Master",
+    "imageSrc": "https://www.cflowapps.com/wp-content/uploads/2018/07/task-management-process.png",
+    "description": "This is a project made with complete Next JS, PostGreSQL DB",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Task_Master",
+    "deploy": "https://task-master-praveen.vercel.app/"
+  },
+  {
+    "key": "52",
+    "title": "AI YT Short Video Gen",
+    "imageSrc": "https://www.vidnoz.com/bimg/how-to-create-viral-shorts-with-youtube-shorts-automation-ai.webp",
+    "description": "This is a project made with complete Next JS, PostGreSQL DB, Convex DB, Inngest, Hugging Face.",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/AI_YT_Short_Video_gen",
+    "deploy": "https://ai-yt-short-video-gen-praveen.vercel.app/"
+  }
+]
