@@ -34,10 +34,10 @@ const ScrollUpButton = () => {
       {isVisible && (
         <button
           onClick={scrollToTop}
-          className="fixed bottom-4 right-4 z-40 p-3 rounded-full shadow-lg bg-gray-400 dark:bg-gray-600 cursor-pointer scroll-smooth"
+          className="fixed bottom-4 right-4 z-40 p-3 rounded-full shadow-lg bg-gray-600 dark:bg-white cursor-pointer scroll-smooth"
           aria-label="Scroll to top"
         >
-          <FaArrowUp size={20} />
+          <FaArrowUp size={20} className="text-white dark:text-black"/>
         </button>
       )}
     </>
