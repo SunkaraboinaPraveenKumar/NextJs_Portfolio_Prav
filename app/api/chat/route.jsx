@@ -3,6 +3,8 @@ import Groq from 'groq-sdk';
 import { DataAPIClient } from '@datastax/astra-db-ts';
 import { HuggingFaceInferenceEmbeddings } from "@langchain/community/embeddings/hf";
 
+export const maxDuration=30;
+
 const groq = new Groq({
   apiKey: process.env.NEXT_PUBLIC_GROQ_API_KEY,
 });
