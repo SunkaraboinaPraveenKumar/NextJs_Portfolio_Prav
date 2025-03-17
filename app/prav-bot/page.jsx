@@ -1,7 +1,6 @@
 "use client";
 import React, { useState } from "react";
 import axios from "axios";
-import NavBar from "../_components/NavBar";
 import ReactMarkdown from "react-markdown";
 import projects from "../../data/projects.json";
 import skills from "../../data/skills.json";

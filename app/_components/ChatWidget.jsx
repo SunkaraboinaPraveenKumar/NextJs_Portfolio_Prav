@@ -7,7 +7,7 @@ import Link from "next/link";
 const ChatWidget = () => {
 
     return (
-        <Link href={"/prav-bot"}>
+        <Link href={"/prav-vector-bot"}>
             <Button
                 className="fixed bottom-4 left-4 z-40 p-3 rounded-full shadow-lg bg-gray-600 dark:bg-white cursor-pointer"
                 aria-label="Open Chat"
