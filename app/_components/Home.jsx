@@ -10,7 +10,7 @@ const Home = () => {
       className="container mx-auto h-[80vh] flex flex-col md:flex-row items-center justify-between px-4"
     >
       {/* Left Section */}
-      <div className="w-full md:w-[620px] text-center p-8 rounded-lg border border-yellow-500 mb-5 md:mb-0 shadow-[5px_5px_10px_10px_rgba(101,175,10,0.5)]">
+      <div className="w-full md:w-[620px] text-center p-8 rounded-lg border border-yellow-500 mb-5 md:mb-0 shadow-[2px_2px_5px_5px_rgba(101,175,10,0.5)]">
         <h1 className="text-2xl font-bold mb-4">Welcome To My Profile</h1>
         <Button className="mt-3">
           <a href="/pdf/PraveenKumarResume.pdf" download="Resume.pdf">

@@ -42,7 +42,7 @@ const SkillsCarousel = () => {
         >
           {skills.map((data) => (
             <div key={data.id} className="snap-center flex-shrink-0 w-72">
-              <Card className="p-6 rounded-lg border border-yellow-500 shadow-[5px_5px_5px_5px_rgba(101,175,10,0.5)] flex flex-col items-center justify-center ml-2">
+              <Card className="p-6 rounded-lg border border-yellow-500 shadow-[2px_2px_2px_2px_rgba(101,175,10,0.5)] flex flex-col items-center justify-center ml-2">
                 <Image
                   src={`/assets/${data.imageSrc}`}
                   alt={data.title}

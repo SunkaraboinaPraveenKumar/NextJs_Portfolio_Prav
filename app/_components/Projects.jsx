@@ -61,7 +61,7 @@ const Projects = () => {
   };
 
   return (
-    <div id="projects" className="container mx-auto px-4 my-3">
+    <div id="projects" className="mx-auto px-4 my-3">
       <h1 className="text-3xl font-bold text-center mb-8">PROJECTS</h1>
 
       {/* Filter Buttons */}
@@ -82,17 +82,17 @@ const Projects = () => {
       </div>
 
       {/* Projects Grid */}
-      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-10 justify-items-center">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 justify-items-center">
         {visibleProjects.map((data, index) => (
           <Card
             key={index}
-            className="w-72 min-h-[400px] border border-yellow-500 shadow-[5px_5px_8px_8px_rgba(101,175,10,0.5)] rounded-lg flex flex-col"
+            className="w-72 min-h-[400px] border border-yellow-300 shadow-[2px_2px_4px_4px_rgba(101,175,10,0.5)] rounded-lg flex flex-col"
           >
             <div className="p-3 flex justify-center items-center">
               <img
                 src={data.imageSrc}
                 alt={data.title}
-                className="w-[250px] h-[200px] border-2 border-yellow-500 rounded-[10px] object-fit"
+                className="w-[250px] h-[200px] border-2 border-yellow-00 rounded-[10px] object-fit"
               />
             </div>
             <div className="p-4 text-center flex flex-col flex-grow">

@@ -29,7 +29,7 @@ const NavBar = () => {
   // If on /prav-bot, only display the theme toggle.
   if (pathname === "/prav-bot") {
     return (
-      <nav className="container mx-auto px-6 py-6 shadow-md mb-10 dark:bg-gray-900">
+      <nav className="mx-auto px-6 py-6 shadow-md mb-10 dark:bg-gray-900">
         <Link href={"/"}>
         <h1 className="text-xl font-bold">Portfolio</h1>
         </Link>
@@ -48,7 +48,7 @@ const NavBar = () => {
 
   // Default NavBar for other routes.
   return (
-    <nav className="container mx-auto px-6 py-6 shadow-md mb-10 dark:bg-gray-900">
+    <nav className="mx-auto px-6 py-6 shadow-md mb-10 dark:bg-gray-900">
       <div className="flex justify-between items-center">
         <h1 className="text-2xl font-bold">Portfolio</h1>
         <div className="flex items-center space-x-4">
