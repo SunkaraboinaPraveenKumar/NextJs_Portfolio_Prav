@@ -474,7 +474,106 @@
     "imageSrc": "https://static.wixstatic.com/media/ce23fb_fc3a6dc3c8a44720bcff0f7e77be3127~mv2.jpeg/v1/fill/w_1000,h_1000,al_c,q_85,usm_0.66_1.00_0.01/ce23fb_fc3a6dc3c8a44720bcff0f7e77be3127~mv2.jpeg",
     "description": "This is a project made with complete Next JS, PostGreSQL DB, Hugging Face.",
     "demo": "https://www.example.com",
-    "source": "",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/AI_Notion_Notes",
     "deploy": "https://ai-notion-notes.vercel.app/"
+  },
+  {
+    "key": "54",
+    "title": "DeepSeek Clone",
+    "imageSrc": "https://static.wixstatic.com/media/ce23fb_fc3a6dc3c8a44720bcff0f7e77be3127~mv2.jpeg/v1/fill/w_1000,h_1000,al_c,q_85,usm_0.66_1.00_0.01/ce23fb_fc3a6dc3c8a44720bcff0f7e77be3127~mv2.jpeg",
+    "description": "This is a project made with complete Next JS, Mongo DB, Groq API, Clerk Authentication.",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/DeepSeek_r1_Clone",
+    "deploy": "https://deep-seek-r1-praveen.vercel.app/"
+  },
+  {
+    "key": "55",
+    "title": "AI Mock Interview",
+    "imageSrc": "https://static.wixstatic.com/media/ce23fb_fc3a6dc3c8a44720bcff0f7e77be3127~mv2.jpeg/v1/fill/w_1000,h_1000,al_c,q_85,usm_0.66_1.00_0.01/ce23fb_fc3a6dc3c8a44720bcff0f7e77be3127~mv2.jpeg",
+    "description": "This is a project made with complete Next JS, Firebase, Gemini API, Vapi API",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/ai_mock_interview",
+    "deploy": "https://ai-mock-interview-praveen.vercel.app/"
+  },
+  {
+    "key": "56",
+    "title": "Canva Clone",
+    "imageSrc": "https://static.wixstatic.com/media/ce23fb_fc3a6dc3c8a44720bcff0f7e77be3127~mv2.jpeg/v1/fill/w_1000,h_1000,al_c,q_85,usm_0.66_1.00_0.01/ce23fb_fc3a6dc3c8a44720bcff0f7e77be3127~mv2.jpeg",
+    "description": "This is a project made with complete Next JS, Shadcn UI, Imagekit.io, Convex Database.",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Canvas_clone",
+    "deploy": "https://canvas-clone-prav.vercel.app/"
+  },
+  {
+    "key": "57",
+    "title": "AI Mock Interview-Updated",
+    "imageSrc": "https://static.wixstatic.com/media/ce23fb_fc3a6dc3c8a44720bcff0f7e77be3127~mv2.jpeg/v1/fill/w_1000,h_1000,al_c,q_85,usm_0.66_1.00_0.01/ce23fb_fc3a6dc3c8a44720bcff0f7e77be3127~mv2.jpeg",
+    "description": "This is a project made with complete Next JS, Supabase, Gemini API, Vapi API",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/ai-interview-platform-vapi",
+    "deploy": "https://ai-interview-platform-prav-vapi.vercel.app/"
+  },
+  {
+    "key": "58",
+    "title": "YT-Shorts Clone",
+    "imageSrc": "https://static.wixstatic.com/media/ce23fb_fc3a6dc3c8a44720bcff0f7e77be3127~mv2.jpeg/v1/fill/w_1000,h_1000,al_c,q_85,usm_0.66_1.00_0.01/ce23fb_fc3a6dc3c8a44720bcff0f7e77be3127~mv2.jpeg",
+    "description": "This is a project made with complete Next JS, Imagekit.io,Prisma",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/YT_Shorts_Clone",
+    "deploy": "https://yt-shorts-clone-praveen.vercel.app/"
+  },
+  {
+    "key": "59",
+    "title": "Interior-Design",
+    "imageSrc": "https://static.wixstatic.com/media/ce23fb_fc3a6dc3c8a44720bcff0f7e77be3127~mv2.jpeg/v1/fill/w_1000,h_1000,al_c,q_85,usm_0.66_1.00_0.01/ce23fb_fc3a6dc3c8a44720bcff0f7e77be3127~mv2.jpeg",
+    "description": "This is a project made with complete Next JS, Convex, Shadcn UI, Zustand.",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/interior_design",
+    "deploy": "https://interior-design-olive.vercel.app/"
+  },
+  {
+    "key": "60",
+    "title": "Online-Learning-App",
+    "imageSrc": "https://static.wixstatic.com/media/ce23fb_fc3a6dc3c8a44720bcff0f7e77be3127~mv2.jpeg/v1/fill/w_1000,h_1000,al_c,q_85,usm_0.66_1.00_0.01/ce23fb_fc3a6dc3c8a44720bcff0f7e77be3127~mv2.jpeg",
+    "description": "This is a project made with complete Next JS, Gemini, Shadcn UI, PostGreSQL.",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/ai_online_learning",
+    "deploy": "https://ai-online-learning.vercel.app/"
+  },
+  {
+    "key": "60",
+    "title": "Perplexity_Clone",
+    "imageSrc": "https://static.wixstatic.com/media/ce23fb_fc3a6dc3c8a44720bcff0f7e77be3127~mv2.jpeg/v1/fill/w_1000,h_1000,al_c,q_85,usm_0.66_1.00_0.01/ce23fb_fc3a6dc3c8a44720bcff0f7e77be3127~mv2.jpeg",
+    "description": "This is a project made with complete Next JS, Google Web Search API, Shadcn UI, supabase.",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/perplexity_clone",
+    "deploy": "https://perplexity-clone-kohl.vercel.app/"
+  },
+  {
+    "key": "61",
+    "title": "AI Career Coach",
+    "imageSrc": "https://static.wixstatic.com/media/ce23fb_fc3a6dc3c8a44720bcff0f7e77be3127~mv2.jpeg/v1/fill/w_1000,h_1000,al_c,q_85,usm_0.66_1.00_0.01/ce23fb_fc3a6dc3c8a44720bcff0f7e77be3127~mv2.jpeg",
+    "description": "This is a project made with complete Next JS, Google Gemini API, Shadcn UI, Imagekit.io,Inngest Agent-Kit, Langchain.",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/ai_career_coach_agent",
+    "deploy": "https://ai-career-coach-agent-livid.vercel.app/"
+  },
+  {
+    "key": "63",
+    "title": "ATS Job Portal",
+    "imageSrc": "https://static.wixstatic.com/media/ce23fb_fc3a6dc3c8a44720bcff0f7e77be3127~mv2.jpeg/v1/fill/w_1000,h_1000,al_c,q_85,usm_0.66_1.00_0.01/ce23fb_fc3a6dc3c8a44720bcff0f7e77be3127~mv2.jpeg",
+    "description": "This is a project made with complete Next JS, Google Gemini API, Shadcn UI, Convex, Langchain.",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/ats_partner",
+    "deploy": "https://ats-partner.vercel.app/"
+  },
+  {
+    "key": "64",
+    "title": "JNTU_FEST",
+    "imageSrc": "https://static.wixstatic.com/media/ce23fb_fc3a6dc3c8a44720bcff0f7e77be3127~mv2.jpeg/v1/fill/w_1000,h_1000,al_c,q_85,usm_0.66_1.00_0.01/ce23fb_fc3a6dc3c8a44720bcff0f7e77be3127~mv2.jpeg",
+    "description": "This is a project made with complete Next JS, Shadcn UI.",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Fest_Jntu",
+    "deploy": "https://fest-jntu.vercel.app/"
   }
 ]

@@ -9,7 +9,7 @@ export const metadata = {
   authors: [
     {
       name: "Praveen Kumar",
-      url: "https://yourwebsite.com",
+      url: "https://next-js-portfolio-prav.vercel.app/",
     },
   ]
 };
