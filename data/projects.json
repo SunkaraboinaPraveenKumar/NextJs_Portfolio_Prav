@@ -575,5 +575,14 @@
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/Fest_Jntu",
     "deploy": "https://fest-jntu.vercel.app/"
+  },
+  {
+    "key": "65",
+    "title": "AI_Personal_Assistant",
+    "imageSrc": "https://static.wixstatic.com/media/ce23fb_fc3a6dc3c8a44720bcff0f7e77be3127~mv2.jpeg/v1/fill/w_1000,h_1000,al_c,q_85,usm_0.66_1.00_0.01/ce23fb_fc3a6dc3c8a44720bcff0f7e77be3127~mv2.jpeg",
+    "description": "This is a project made with complete Next JS, Shadcn UI, Groq API.",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/AI_Personal_Assistant_Maker",
+    "deploy": "https://ai-personal-assistant-praveen.vercel.app"
   }
 ]

@@ -85,18 +85,43 @@
     "imageSrc": "skills/nlp.jpeg"
   },
   {
-    "id":"18",
-    "title": "Agentic AI(Langchain)",
+    "id": "19",
+    "title": "Vector Databases",
+    "imageSrc": "skills/vd.png"
+  },
+  {
+    "id": "18",
+    "title": "Vercel Deployment",
+    "imageSrc": "skills/vercel.png"
+  },
+  {
+    "id": "20",
+    "title": "Fastapi",
+    "imageSrc": "skills/fastapi.png"
+  },
+  {
+    "id": "21",
+    "title": "Langchain",
+    "imageSrc": "skills/langchain.png"
+  },
+  {
+    "id": "22",
+    "title": "Langgraph",
+    "imageSrc": "skills/langgraph.png"
+  },
+  {
+    "id": "23",
+    "title": "Agentic AI",
     "imageSrc": "skills/agentic.png"
   },
   {
-    "id":"19",
-    "title": "Vector Databases",
-    "imageSrc": "skills/vector.png"
+    "id": "24",
+    "title": "Postman",
+    "imageSrc": "skills/postman.png"
   },
   {
-    "id":"20",
-    "title": "PostGreSQL",
-    "imageSrc": "skills/postgresql.png"
+    "id": "25",
+    "title": "Gen-AI&LLMs",
+    "imageSrc": "skills/gen-ai.png"
   }
 ]
