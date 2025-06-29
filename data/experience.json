@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "role": "Bachelor Of Technology(B.TECH)",
-    "organisation": "Google",
+    "role": "Bachelor Of Technology",
+    "organisation": "JNTU",
     "startDate": "2020 to 2026",
     "endDate": "",
     "location": "Jawaharlal Nehru Techological University Hyderabad",
     "experiences": [
       "Computer Science and Engineering(CSE)",
-      "CGPA: 9.49"
+      "CGPA: 9.39"
     ],
     "imageSrc": "https://cdn-icons-png.flaticon.com/128/2231/2231696.png"
   },
