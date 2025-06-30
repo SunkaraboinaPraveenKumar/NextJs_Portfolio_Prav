@@ -8,7 +8,7 @@ const Home = () => {
   return (
     <div
       id="home"
-      className="relative w-full max-w-7xl mx-auto min-h-[80vh] flex flex-col lg:flex-row items-center justify-center lg:justify-between px-4 sm:px-6 lg:px-8 py-8 gap-8 lg:gap-12 overflow-hidden"
+      className="relative w-full max-w-7xl mx-auto min-h-[80vh] flex flex-col lg:flex-row items-center justify-center lg:justify-between px-4 sm:px-6 lg:px-8 py-8 gap-8 lg:gap-12 overflow-hidden mt-20"
     >
       {/* Background Elements */}
       <div className="absolute inset-0 w-full h-full overflow-hidden pointer-events-none">
