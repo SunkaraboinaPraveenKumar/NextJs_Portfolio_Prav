@@ -50,7 +50,8 @@ const Projects = () => {
     return false;
   };
 
-  const filteredProjects = project.filter(filterProjects);
+  const sortedProjects = [...project].sort((a, b) => parseInt(b.key) - parseInt(a.key));
+  const filteredProjects = sortedProjects.filter(filterProjects);
   const visibleProjects = filteredProjects.slice(0, visibleCount);
 
   const loadMore = () => {
