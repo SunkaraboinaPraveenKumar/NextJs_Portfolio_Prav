@@ -45,7 +45,7 @@ export async function POST(req) {
 
   docContext=`
   START CONTEXT
-  ${documents?.map(doc=>doc.description).join("\n")}
+  ${documents?.map(doc => typeof doc.description === 'string' ? doc.description : JSON.stringify(doc.description)).join("\n")}
   END CONTEXT
   `
 
