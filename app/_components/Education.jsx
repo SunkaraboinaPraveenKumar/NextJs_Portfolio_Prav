@@ -25,7 +25,7 @@ const Education = () => {
           <div className="inline-flex items-center justify-center w-16 h-16 bg-gradient-to-r from-yellow-500 to-orange-500 rounded-full mb-6 shadow-lg shadow-yellow-500/25">
             <GraduationCap className="w-8 h-8 text-black" />
           </div>
-          <h1 className="text-5xl font-bold bg-gradient-to-r from-white via-yellow-400 to-orange-400 bg-clip-text text-transparent mb-4">
+          <h1 className="text-4xl sm:text-4xl lg:text-5xl font-bold bg-gradient-to-r from-gray-900 via-yellow-600 to-orange-600 dark:from-white dark:via-yellow-400 dark:to-orange-400 bg-clip-text text-transparent mb-3 sm:mb-4">
             Education
           </h1>
           <div className="w-24 h-1 bg-gradient-to-r from-yellow-500 to-orange-500 mx-auto rounded-full"></div>
