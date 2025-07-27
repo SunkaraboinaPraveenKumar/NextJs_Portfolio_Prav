@@ -602,5 +602,14 @@
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/ai_health_voice_bot",
     "deploy": "https://ai-health-voice-bot.vercel.app/"
+  },
+  {
+    "key": "68",
+    "title": "AI YT Analytics App",
+    "imageSrc": "https://static.wixstatic.com/media/ce23fb_fc3a6dc3c8a44720bcff0f7e77be3127~mv2.jpeg/v1/fill/w_1000,h_1000,al_c,q_85,usm_0.66_1.00_0.01/ce23fb_fc3a6dc3c8a44720bcff0f7e77be3127~mv2.jpeg",
+    "description": "This is a project made with complete Next JS, Shadcn UI, Google & Youtube API, Clerk.",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/yt_ai_thumbnail",
+    "deploy": "https://yt-ai-thumbnail.vercel.app/"
   }
 ]
