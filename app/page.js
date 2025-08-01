@@ -7,6 +7,7 @@ import Projects from "./_components/Projects";
 import Contact from "./_components/Contact";
 import ScrollUpButton from "./_components/ScrollUpButton";
 import ChatWidget from "./_components/ChatWidget";
+import Experience from "./_components/Experience";
 
 export default function PortfolioPage() {
   return (
@@ -14,6 +15,7 @@ export default function PortfolioPage() {
       <NavBar />
       <main>
         <HomeSection />
+        <Experience/>
         <Education />
         <Skills />
         <Projects />
