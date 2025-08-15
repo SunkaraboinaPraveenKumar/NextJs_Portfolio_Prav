@@ -22,22 +22,26 @@ const Experience = () => {
     // Regular expression to match URLs
     const urlRegex = /(https?:\/\/[^\s]+)/g;
     const parts = text.split(urlRegex);
-    
+
     return parts.map((part, index) => {
       if (urlRegex.test(part)) {
-        // Extract domain name for display
-        const displayText = part.length > 50 ? `${part.substring(0, 47)}...` : part;
-        
+        // Extract domain name for display with responsive truncation
+        const isMobile = window.innerWidth < 640; // sm breakpoint
+        const maxLength = isMobile ? 25 : 50;
+        const truncateLength = isMobile ? 22 : 47;
+        const displayText = part.length > maxLength ? `${part.substring(0, truncateLength)}...` : part;
+
         return (
           <a
             key={index}
             href={part}
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-flex items-center gap-1 text-blue-600 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-300 underline underline-offset-2 hover:underline-offset-4 transition-all duration-200 font-medium"
+            className="inline-flex items-center gap-1 text-blue-600 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-300 underline underline-offset-2 hover:underline-offset-4 transition-all duration-200 font-medium break-all max-w-full overflow-hidden"
+            style={{ wordBreak: 'break-all', overflowWrap: 'break-word' }}
           >
-            {displayText}
-            <ExternalLink className="w-3 h-3 flex-shrink-0" />
+            <span className="truncate min-w-0 flex-1">{displayText}</span>
+            <ExternalLink className="w-3 h-3 flex-shrink-0 ml-1" />
           </a>
         );
       }
