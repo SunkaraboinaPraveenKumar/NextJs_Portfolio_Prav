@@ -1,11 +1,28 @@
 "use client";
 
-import React from "react";
+import React, { useEffect, useState } from "react";
 import { Card } from "@/components/ui/card";
 import { Briefcase, MapPin, Calendar, Clock, Award, Building, ExternalLink } from "lucide-react";
 import experience from "../../data/experience.json";
 
 const Experience = () => {
+  const [isMobile, setIsMobile] = useState(false);
+
+  useEffect(() => {
+    const handleResize = () => {
+      setIsMobile(window.innerWidth < 640);
+    };
+
+    // Initial check
+    handleResize();
+
+    // Add event listener
+    window.addEventListener('resize', handleResize);
+
+    // Cleanup
+    return () => window.removeEventListener('resize', handleResize);
+  }, []);
+
   const getStatusBadge = (data) => {
     const isOngoing = !data.endDate || data.startDate.includes("to");
     return {
@@ -25,8 +42,6 @@ const Experience = () => {
 
     return parts.map((part, index) => {
       if (urlRegex.test(part)) {
-        // Extract domain name for display with responsive truncation
-        const isMobile = window.innerWidth < 640; // sm breakpoint
         const maxLength = isMobile ? 25 : 50;
         const truncateLength = isMobile ? 22 : 47;
         const displayText = part.length > maxLength ? `${part.substring(0, truncateLength)}...` : part;
